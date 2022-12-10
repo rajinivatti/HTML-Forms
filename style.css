@@ -1,0 +1,25 @@
+*{
+    background-color:black;
+    color:white;
+}
+.btn{
+    background-color:white;
+    color:black;
+    width:150px;
+    height:30px;
+}
+.fname{
+    border-style:none;
+}
+.email{
+    border-style: none;
+}
+.psd{
+    border-style: none;
+}
+.cpsd{
+    border-style: none;
+}
+.dob{
+    border-style: none;
+}
